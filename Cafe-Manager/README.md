@@ -2,7 +2,8 @@
 
 ### 1. Giới thiệu	
 
-Phân công nhiệm vụ: https://docs.google.com/spreadsheets/d/17zi1K5lT4oKu1lFJ0KAVxbyke2YfdZWs4GgMxJciaNw/
+Ứng dụng hệ thống quản lý quán vào trong kinh doanh giúp dễ dàng kiểm soát các
+hoạt động và doanh thu của quán.
 
 ### 2. Hướng dẫn cài đặt môi trường 	
 
